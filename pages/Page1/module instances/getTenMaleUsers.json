@@ -1,0 +1,30 @@
+{
+  "packageUUID": "246ea19a-da00-4d50-8fcd-0a1542d42da5",
+  "moduleUUID": "3a883bb3-7407-4fe3-92fb-4f2b963b94ed",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.1",
+    "name": "getTenMaleUsers",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {
+      "genderInput": "male"
+    },
+    "moduleInputs": {
+      "avlecufsml": {
+        "id": "avlecufsml",
+        "label": "genderInput",
+        "propertyName": "inputs.genderInput",
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "male"
+      }
+    },
+    "jsonPathKeys": [],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "id": "Page1_getTenMaleUsers",
+  "deleted": false,
+  "gitSyncId": "663272f6b9de205fdc7554c5_631144ee-207b-4be1-ba39-2e53cba0eee1"
+}

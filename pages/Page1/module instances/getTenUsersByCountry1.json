@@ -1,0 +1,30 @@
+{
+  "packageUUID": "246ea19a-da00-4d50-8fcd-0a1542d42da5",
+  "moduleUUID": "44effee5-3850-487a-bea3-57b731b97b73",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.1",
+    "name": "getTenUsersByCountry1",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {
+      "country": "Australia"
+    },
+    "moduleInputs": {
+      "tcibmojhmz": {
+        "id": "tcibmojhmz",
+        "label": "country",
+        "propertyName": "inputs.country",
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "Australia"
+      }
+    },
+    "jsonPathKeys": [],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "id": "Page1_getTenUsersByCountry1",
+  "deleted": false,
+  "gitSyncId": "663272f6b9de205fdc7554c5_2c6e42f7-0692-4678-9485-458817e630f9"
+}
